@@ -1,0 +1,8 @@
+C:\Users\Phong Nguyen\source\repos\VMMW\VMMW.ViewModel\bin\Debug\VMMW.ViewModel.dll
+C:\Users\Phong Nguyen\source\repos\VMMW\VMMW.ViewModel\bin\Debug\VMMW.ViewModel.pdb
+C:\Users\Phong Nguyen\source\repos\VMMW\VMMW.ViewModel\obj\Debug\VMMW.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Phong Nguyen\source\repos\VMMW\VMMW.ViewModel\obj\Debug\VMMW.ViewModel.dll
+C:\Users\Phong Nguyen\source\repos\VMMW\VMMW.ViewModel\obj\Debug\VMMW.ViewModel.pdb
+C:\Users\Phong Nguyen\source\repos\VMMW\VMMW.ViewModel\obj\Debug\VMMW.ViewModel.csproj.AssemblyReference.cache
+C:\Users\Phong Nguyen\source\repos\VMMW\VMMW.ViewModel\bin\Debug\MvvmFoundation.Wpf.dll
+C:\Users\Phong Nguyen\source\repos\VMMW\VMMW.ViewModel\obj\Debug\VMMW.ViewModel.csproj.CopyComplete

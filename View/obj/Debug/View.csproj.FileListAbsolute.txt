@@ -1,0 +1,13 @@
+C:\Users\Phong Nguyen\source\repos\VMMW\View\bin\Debug\View.dll
+C:\Users\Phong Nguyen\source\repos\VMMW\View\bin\Debug\View.pdb
+C:\Users\Phong Nguyen\source\repos\VMMW\View\obj\Debug\View.csproj.AssemblyReference.cache
+C:\Users\Phong Nguyen\source\repos\VMMW\View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Phong Nguyen\source\repos\VMMW\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\Phong Nguyen\source\repos\VMMW\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\Phong Nguyen\source\repos\VMMW\View\obj\Debug\Themes\Generic.baml
+C:\Users\Phong Nguyen\source\repos\VMMW\View\obj\Debug\View.g.resources
+C:\Users\Phong Nguyen\source\repos\VMMW\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Phong Nguyen\source\repos\VMMW\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Phong Nguyen\source\repos\VMMW\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Phong Nguyen\source\repos\VMMW\View\obj\Debug\View.dll
+C:\Users\Phong Nguyen\source\repos\VMMW\View\obj\Debug\View.pdb
